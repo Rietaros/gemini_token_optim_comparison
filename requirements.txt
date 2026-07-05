@@ -1,0 +1,5 @@
+google-adk>=1.16.0
+google-genai>=1.0.0
+pandas>=2.0.0
+jupyter>=1.0.0
+ipykernel>=6.0.0
